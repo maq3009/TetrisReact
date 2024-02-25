@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+}
+@font-face {
+  font-family: 'Pixel';
+  src: url('fonts/pixel_lcd_7.ttf') format('ttf');
+}
+
+
